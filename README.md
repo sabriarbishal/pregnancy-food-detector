@@ -25,3 +25,10 @@ To assist pregnant women in making informed dietary decisions through AI-powered
 
 ## 📌 Note
 This was developed as part of my final year B.Sc. defense, using online resources for model implementation and customization.
+
+## 📁 Folder Structure
+
+- input/ – Raw images or input dataset  
+- output/ – Model results, screenshots  
+- food_detection.ipynb – Main ML notebook  
+- presentation.pdf – Final defense slides
